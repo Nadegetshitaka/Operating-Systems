@@ -10,3 +10,9 @@ Processor Management
 In multiprogramming environment, the OS decides which process gets the processor when and for how much time. This function is called process scheduling. An Operating System does the following activities for processor management:
 Keeps tracks of processor and status of process. The program responsible for this task is known as traffic controller.
 Allocates the processor (CPU) to a process and De-allocates processor when a process is no longer required.
+
+File Management
+A file system is normally organized into directories for easy navigation and usage. These directories may contain files and other directions.
+An Operating System does the following activities for file management −
+Keeps track of information, location, uses, status etc. The collective facilities are often known as file system.
+Decides who gets the resources, Allocates the resources and De-allocates the resources.
